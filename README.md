@@ -1,7 +1,7 @@
 # Cybersec Tools
-Real-time attacks: https://cybermap.kaspersky.com/
-OWASP testing guide: https://owasp.org/www-project-web-security-testing-guide/
-OWASP Cheat Sheet: https://cheatsheetseries.owasp.org/index.html
+* Real-time attacks: https://cybermap.kaspersky.com/
+* OWASP testing guide: https://owasp.org/www-project-web-security-testing-guide/
+* OWASP Cheat Sheet: https://cheatsheetseries.owasp.org/index.html
 
 ## OSINT
 ### Identity generators:
