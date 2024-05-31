@@ -130,7 +130,8 @@
 ### Pentest Management:
 * Pentest management tool: https://github.com/redeye-framework/Redeye
 ### AI:
-* Jailbreakers: https://github.com/tturba/AI
+* Some jailbreakers: https://github.com/tturba/AI
+* More jailbreakers: https://github.com/elder-plinius/L1B3RT45
 * Deepfake Offensive Toolkit: https://github.com/securitum-com/dot
 
 ## Challenges and trainings:
