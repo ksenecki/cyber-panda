@@ -4,7 +4,7 @@ https://www.adventofosint.com/en/2023/4
 
 ## Task
 
-![Message](assets\photo4.png)
+![Message](assets/photo4.png)
 
 I remember my visit to St Barbara's Church in Krakow as if it were yesterday, even thought it's been a little over 14 years ago...
 After the visit, I had strolled along the square next to the basilica and an incredible scene unfolded before my eyes: a man in yellow checked overalls and a musician were looking at two policemen, who were getting out of their car to join a fireman, under the questioning gaze of the driver of a cart pulled by two horses.

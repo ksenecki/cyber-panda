@@ -13,11 +13,12 @@ Who was the actor?
 ## Solution
 
 1. Take the photo.
-2. Use [Pimeyes](https://pimeyes.com/en)
+2. Use [Pimeyes](https://pimeyes.com/en).  
 3. Check results and find some photos of Michaels Jackson. Photo is from his clip called Thriller.
-4. Ask [cylect.io](https://cylect.io/) 
-   At a private premiere of Thriller (by Michael Jackson), a famous actor asked for the clip to be shown a second time. Who was the actor?"  
-![chat answer](assets/chat-answers.png)
+4. Ask [cylect.io](https://cylect.io/).   
+   > At a private premiere of Thriller (by Michael Jackson), a famous actor asked for the clip to be shown a second time. Who was the actor?" 
+
+   ![chat answer](assets/chat-answers.png)
 
 <details><summary>Answer</summary>Eddie Murphy</details>
 

@@ -13,10 +13,10 @@ In which city was she born?
 ## Solution
 
 1. Take the photo.
-2. Use [Tineye](https://www.tineye.com/)
-3. Check [Results](https://tineye.com/search/9aa4bbb54c5c0001ff94a52c1cac85507879c726?sort=score&order=desc&page=1)  
+2. Use [Tineye](https://www.tineye.com/).
+3. Check [Results](https://tineye.com/search/9aa4bbb54c5c0001ff94a52c1cac85507879c726?sort=score&order=desc&page=1).  
 ![Tineye results](assets/whoisthegirl.png)
-5. Go to [Wikipedia](https://en.wikipedia.org/)  
+5. Go to [Wikipedia](https://en.wikipedia.org/).  
 ![Answer](assets/answer.png)
 
 <details><summary>Answer</summary>Tuskegee</details>
