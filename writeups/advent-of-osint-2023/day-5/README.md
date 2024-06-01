@@ -4,10 +4,10 @@ https://www.adventofosint.com/en/2023/5
 
 ## Task
 
-![Message](assets/photo5.png)
+![Composer](assets/photo5.png)
 
 I'm sure you're familiar with this music.  
-![music clip](https://github.com/ksenecki/cyber-panda/blob/main/writeups/advent-of-osint-2023/day-5/assets/music5.mp3)  
+[music clip](https://github.com/ksenecki/cyber-panda/blob/main/writeups/advent-of-osint-2023/day-5/assets/music5.mp3)  
 1. In which year was this work probably created?
 2. Which actress (first name then surname) played the role of the composer's wife in a famous movie released in 1984?
 (Example: 1962 delphine robin)

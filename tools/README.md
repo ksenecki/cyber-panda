@@ -17,7 +17,7 @@
 * Adobe Firefly: https://www.adobe.com/products/firefly.html
 ### AI detectors:
 - Copyleaks, an AI content detector: https://copyleaks.com/
-- Isthatai, an AI content detector: https://isitai.com/
+- Isitai, an AI content detector: https://isitai.com/
 - Gowinion, just another AI detector https://gowinston.ai/
 ### Searching for AI-based posts in social media:
 - Search for: "I'm sorry, I cannot generate", "violates OpenAI's content policy"
@@ -25,7 +25,7 @@
 ### Search Engines
 * Carrot2 organizes your search results into topics with an instant overview of what's available: https://search.carrot2.org/#/search/web
 * Chatbot based search engine: https://cylect.io/
-* Taranis AI is an advanced OSINT tool for information gathering and situational analysis: https://taranis.ai/
+* Taranis AI is a local hosted advanced OSINT tool for information gathering and situational analysis: https://taranis.ai/
 * Google dorks based search: https://www.digitaldigging.org/
 ### Image search:
 - Google image search: https://images.google.com/
