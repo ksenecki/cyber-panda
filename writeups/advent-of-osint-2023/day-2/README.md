@@ -19,6 +19,6 @@ Who was the actor?
    At a private premiere of Thriller (by Michael Jackson), a famous actor asked for the clip to be shown a second time. Who was the actor?"  
 ![chat answer](assets/chat-answers.png)
 
-<details><summary>Answer</summary>`Eddie Murphy`</details>
+<details><summary>Answer</summary>Eddie Murphy</details>
 
-<details><summary>Keyword</summary>`Pingouin en pyjama`</details>
+<details><summary>Keyword</summary>Pingouin en pyjama</details>

@@ -30,8 +30,8 @@ But there is nothing insteresting there...
 ![first guess](assets/woman.jpg)  
 There is a hit!
 
-<details><summary>First Answer</summary>`Neil Papworth`</details>
+<details><summary>First Answer</summary>Neil Papworth</details>
 
-<details><summary>Second Answer</summary>`Catwomanh`</details>
+<details><summary>Second Answer</summary>Catwomanh</details>
 
-<details><summary>Keyword</summary>`Chaussette orpheline`</details>
+<details><summary>Keyword</summary>Chaussette orpheline</details>

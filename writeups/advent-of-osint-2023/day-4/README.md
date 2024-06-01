@@ -4,34 +4,22 @@ https://www.adventofosint.com/en/2023/4
 
 ## Task
 
-![Message](assets\photo3.png)
+![Message](assets\photo4.png)
 
-My friend Zoé Kastox has trouble with technology. The proof is, she just sent me a text, but who does that nowadays? Luckily, she isn't as bad with social media...
-1. Who sent the first commercial text message in history (first name then surname)?
-2. Which costume does Zoé like?
-(Example: john caprio kingkong)
+I remember my visit to St Barbara's Church in Krakow as if it were yesterday, even thought it's been a little over 14 years ago...
+After the visit, I had strolled along the square next to the basilica and an incredible scene unfolded before my eyes: a man in yellow checked overalls and a musician were looking at two policemen, who were getting out of their car to join a fireman, under the questioning gaze of the driver of a cart pulled by two horses.
+In the local language, what colour was the right sleeve of the shirt of the man in overalls and what instrument was the musician playing?
+(Example: zielony gitara)
 
 ## Solution
 
-1. Ask [cylect.io](https://cylect.io/)
-   > Who sent the first commercial text message in history?
-   
-   ![Answer](assets\sender.png)
+1. Look for a st Barbara's Church in Kraków on [google maps](https://maps.app.goo.gl/1TW9mHgCisuFcBzN7).
+2. Go to the google street view and stay in front of the church. Change `see last date` to `2009` and there you have it.  
+![st. Barbara's church in Kraków](assets/last-date.png)
+3. Use [google translate](https://translate.google.com/?hl=pl&sl=en&tl=pl&op=translate) to translate color and music instrument to Polish.
 
-2. Look for `Zoé Kastox` on [carrot2](https://search.carrot2.org/#/search/web/Zo%C3%A9%20Kastox/folders)
-3. Find [instagram](https://www.instagram.com/zoeredleaf/)
-![first guess](assets\girl1.png)
-But `Wednesday Addams` is a wrong guess. :(
+<details><summary>First Answer</summary>czerwony</details>
 
-4. Google Zoé Kastox` gives us a some [facebook accounts](https://en-gb.facebook.com/public/Zoe-Kasta)  
-But there is nothing insteresting there...
+<details><summary>Second Answer</summary>akordeon</details>
 
-5. Let's try [x.com](https://x.com/ZKastox)
-![first guess](assets\woman.jpg)
-There is a hit!
-
-<details><summary>First Answer</summary>`Neil Papworth`</details>
-
-<details><summary>Second Answer</summary>`Catwomanh`</details>
-
-<details><summary>Keyword</summary>`Chaussette orpheline`</details>
+<details><summary>Keyword</summary>Chocolat et camembert</details>

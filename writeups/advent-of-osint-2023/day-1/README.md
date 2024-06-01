@@ -19,6 +19,6 @@ In which city was she born?
 5. Go to [Wikipedia](https://en.wikipedia.org/)  
 ![Answer](assets/answer.png)
 
-<details><summary>Answer</summary>`Tuskegee`</details>
+<details><summary>Answer</summary>Tuskegee</details>
 
-<details><summary>Keyword</summary>`Pizza ananas`</details>
+<details><summary>Keyword</summary>Pizza ananas</details>
