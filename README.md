@@ -1,3 +1,3 @@
-# Cybersec Tools
+# CyberSec Tools
 
-Cyber tools I use and some writeups
+CyberSec tools I use and some writeups from challenges I take.
