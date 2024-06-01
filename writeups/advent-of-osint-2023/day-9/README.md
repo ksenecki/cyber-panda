@@ -19,7 +19,7 @@ Give the first names in alphabetical order.
 5. First result in google gives you the [report](https://www.assemblee-nationale.fr/12/evenements/1905/rapport1905-r.pdf).  
 6. You find last names of 2 vice presidents on 6th page.  
 ![Vice presidents](assets/vice-presidents.png)  
-7. You can find full names of [first](https://fr.wikipedia.org/wiki/Jean_Bepmale) and [second](https://fr.wikipedia.org/wiki/Th%C3%A9odore_Baudon) ones on the French wikipedia.  
+7. You can find full names of [first](https://fr.wikipedia.org/wiki/Jean_Bepmale) and [second](https://fr.wikipedia.org/wiki/Th%C3%A9odore_Baudon) ones on the French Wikipedia.  
 
 <details><summary>Answer</summary>Auguste Eugène Jean Omer Théodore</details>
 
