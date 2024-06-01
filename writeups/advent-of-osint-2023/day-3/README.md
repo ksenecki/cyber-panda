@@ -19,15 +19,15 @@ My friend Zoé Kastox has trouble with technology. The proof is, she just sent m
    ![Answer](assets/sender.png)
 
 2. Look for `Zoé Kastox` on [carrot2](https://search.carrot2.org/#/search/web/Zo%C3%A9%20Kastox/folders)
-3. Find [instagram](https://www.instagram.com/zoeredleaf/)
-![first guess](assets/girl1.png)
+3. Find [instagram](https://www.instagram.com/zoeredleaf/)  
+![first guess](assets/girl1.png)  
 But `Wednesday Addams` is a wrong guess. :(
 
 4. Google Zoé Kastox` gives us a some [facebook accounts](https://en-gb.facebook.com/public/Zoe-Kasta)  
 But there is nothing insteresting there...
 
-5. Let's try [x.com](https://x.com/ZKastox)
-![first guess](assets/woman.jpg)
+1. Let's try [x.com](https://x.com/ZKastox)  
+![first guess](assets/woman.jpg)  
 There is a hit!
 
 <details><summary>First Answer</summary>`Neil Papworth`</details>
