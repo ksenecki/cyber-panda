@@ -144,7 +144,7 @@
 * Cloud: http://flaws2.cloud/
 * Math, logic and cryptography challenges: https://rankk.org/
 * Asvent of Cyber: https://tryhackme.com/r/christmas
-* OSINT channelges: https://www.osint4fun.eu/
+* OSINT challenges: https://www.adventofosint.com/
 ### CTFs:
 * https://hackyeah.pl/justctf/
 * https://picoctf.org/
