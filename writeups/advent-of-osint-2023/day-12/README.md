@@ -16,7 +16,7 @@ On it, there's at least two different plaques : one recalls the message previous
 ## Solution
 
 1. You can easily find this [guy](https://en.wikipedia.org/wiki/Guglielmo_Marconi) using the google image search.  
-2. It looks ge got a Nobel Prize in Physics in 1909.  
+2. It looks like he got a Nobel Prize in Physics in 1909.  
 3. https://cylect.io/ comes in handy once again as it helps us find the [letter](https://www.history.com/this-day-in-history/marconi-sends-first-atlantic-wireless-transmission).
     > What was a letter Marconi sent using telegraph?
 ![Letter](assets/letter.jpg)  
