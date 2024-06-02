@@ -4,7 +4,7 @@ https://www.adventofosint.com/en/2023/13
 
 ## Task
 
-![Delegation](assets/photo13.jpg)  
+![Plaque](assets/photo13.jpg)  
 
 This plaque is the last of a short series that will have marked history.  
 1. On which valley has it been placed ?  
@@ -23,6 +23,6 @@ This whole mission has been recorded, filmed, transcribed...etc. Numerous traces
 
 <details><summary>First Answer</summary>taurus-littrow</details>  
 
-<details><summary>Second Answer</summary>taurus-littrow</details>  
+<details><summary>Second Answer</summary>James Chipman Fletcher</details>  
 
 <details><summary>Keyword</summary>Café ou thé</details>

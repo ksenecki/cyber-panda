@@ -4,7 +4,7 @@ https://www.adventofosint.com/en/2023/11
 
 ## Task
 
-![Delegation](assets/photo11.png)  
+![Celebrities]](assets/photo11.png)  
 
 Shakira, David Beckham, Roger Federer, Angelina Jolie and many other celebrities all share a commitment to a Nobel Peace Prize.  
 For its 75th birthday, a sheet of stamps was issued.

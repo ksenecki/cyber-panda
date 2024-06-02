@@ -4,7 +4,7 @@ https://www.adventofosint.com/en/2023/12
 
 ## Task
 
-![Delegation](assets/photo12.jpg)  
+![Engineer](assets/photo12.jpg)  
 
 This man achieved a world first that earned him the Nobel Prize a few years later.  
 1. Which letter was sent this day ?
