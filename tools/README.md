@@ -22,6 +22,8 @@
 ### Searching for AI-based posts in social media:
 - Search for: "I'm sorry, I cannot generate", "violates OpenAI's content policy"
 - Use google dorks to search for automated content on social media: "as an AI language model" site:linkedin.com inurl:post
+### Social media tools:
+- look fo login, email and phone number on Instagram (often banned by Instagram): https://github.com/Datalux/Osintgram
 ### Search Engines
 * Carrot2 organizes your search results into topics with an instant overview of what's available: https://search.carrot2.org/#/search/web
 * Chatbot based search engine: https://cylect.io/
@@ -33,6 +35,7 @@
 - AI based face recognition: https://pimeyes.com/en
 - Face photo search: https://facecheck.id/
 - Chineese face recognition system: https://www.faceplusplus.com/
+- FOrensically (Image Forensic): https://29a.ch/photo-forensics/#forensic-magnifier
 ### File search:
 * Search for files in AWS buckets: https://grayhatwarfare.com/
 ### IP and Domain address search:
@@ -45,6 +48,8 @@
 * Zehef studies the emails : https://github.com/N0rz3/Zehef
 * Search over 300 pages for an email data: https://osint.industries/
 * Business emails search: https://hunter.io/
+### Password:
+* Have I been pwned: https://haveibeenpwned.com/
 ### IoT search:
 * Exposed IoT search engine: https://www.shodan.io/
 * Scanner for IoT such as routers, servers, and webcams https://www.zoomeye.hk/
@@ -64,6 +69,8 @@
 * Github repositiories data: https://giters.com/
 * Harvester gathers names, emails, IPs, subdomains, and URLs by using multiple public resources: https://github.com/laramies/theHarvester
 * Gitdumper recreates repository structure from git file: https://github.com/HoLLy-HaCKeR/git-dumper
+* Complex OSINT search: https://www.osint.industries/
+* Web Archive: https://wayback-api.archive.org/
 
 ## General Toolkit
 ### Browser extensions:
