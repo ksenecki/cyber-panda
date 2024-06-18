@@ -55,9 +55,12 @@
 * https://whiteclouddrive.com/generate
 * https://canarytokens.org/generate
 * Webhooks generator: https://webhook.site/
-### General Reconnaissance:
+### General Reconnaissance and tools databases:
 * OSINT tools: https://osintframework.com/
 * More OSINT tools: https://seintpl.github.io/
+* OSINT tools for Poland: https://otwartezrodla.pl/
+* OSINT tools: https://map.malfrats.industries/
+* Enormous tools database: https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list
 * Github repositiories data: https://giters.com/
 * Harvester gathers names, emails, IPs, subdomains, and URLs by using multiple public resources: https://github.com/laramies/theHarvester
 * Gitdumper recreates repository structure from git file: https://github.com/HoLLy-HaCKeR/git-dumper
@@ -71,6 +74,15 @@
 * Temper Dev, Burp/ZAP/Fiddler proxylike tool: https://chromewebstore.google.com/detail/tamper-dev/mdemppnhjflbejfbnlddahjbpdbeejnn
 * Wappalyzer checks technologies used on the website: https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pl
 * DotGit, a browser extension that checks for exposed `.git` file: https://github.com/davtur19/DotGit
+* Screen recording: https://chromewebstore.google.com/detail/screenity-nagrywarka-edyt/kbbdabhdfibnancpjfhlkhafgdilcnji
+* Fireshot (screenshots): https://chromewebstore.google.com/detail/zr%C3%B3b-pe%C5%82ny-ca%C5%82kowity-zrzu/mcbpblocgmgfnpjjppndjkmgjaogfceg
+### Mind Maps:
+* Xmind: https://xmind.app/
+* Obsidian: https://obsidian.md/
+* https://github.com/sinwindie/OSINT
+### Screenshots:
+* Lightshot: https://app.prntscr.com/pl/
+* Hunchly: https://hunch.ly/
 ### Browsers:
 * Tor: https://www.torproject.org/
 ### Fuzzers:
@@ -99,6 +111,15 @@
 * Testing malware on Virtual Machines: https://any.run/
 ### API Keys:
 * Validate your API Key: https://github.com/streaak/keyhacks
+### Configure DNS for OSINT:
+* DNS Google: 8.8.8.8 / 8.8.4.4
+* CloudFlare:
+  * 1.1.1.1 i 1.0.0.1 - privacy protection
+  * 1.1.1.2 i 1.0.0.2 - blocking malware
+  * 1.1.1.3 i 1.0.0.3 - blocking porn
+### Proxy:
+* Online database of proxy lists: https://hidemyname.info/en/proxy-list/
+* Linux ProxyChains: https://github.com/haad/proxychains
 
 ## Offensive
 ### Backdoor and reverse shell:
@@ -145,6 +166,7 @@
 * Math, logic and cryptography challenges: https://rankk.org/
 * Asvent of Cyber: https://tryhackme.com/r/christmas
 * OSINT challenges: https://www.adventofosint.com/
+* Quizes: https://seintpl.github.io/
 ### CTFs:
 * https://hackyeah.pl/justctf/
 * https://picoctf.org/
