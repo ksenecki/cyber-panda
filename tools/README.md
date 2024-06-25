@@ -4,6 +4,11 @@
 * OWASP Cheat Sheet: https://cheatsheetseries.owasp.org/index.html
 
 ## OSINT
+### Data leaks:
+* http://haveibeenpwned.com
+* http://dehashed.com
+* http://bezpiecznedane.gov.pl
+* http://breachforums.cx/
 ### Identity generators:
 - This person does not exist: https://this-person-does-not-exist.com/
 - Fake person generator: https://www.fakepersongenerator.com/
@@ -30,24 +35,81 @@
 * Taranis AI is a local hosted advanced OSINT tool for information gathering and situational analysis: https://taranis.ai/
 * Google dorks based search: https://www.digitaldigging.org/
 ### Image search:
-- Google image search: https://images.google.com/
-- Reverse image search: https://tineye.com/
-- AI based face recognition: https://pimeyes.com/en
-- Face photo search: https://facecheck.id/
-- Chineese face recognition system: https://www.faceplusplus.com/
-- FOrensically (Image Forensic): https://29a.ch/photo-forensics/#forensic-magnifier
+* Google image search: https://images.google.com/
+* Reverse image search: https://tineye.com/
+* AI based face recognition: https://pimeyes.com/en
+* Face photo search: https://facecheck.id/
+* Chineese face recognition system: https://www.faceplusplus.com/
+* FOrensically (Image Forensic): https://29a.ch/photo-forensics/#forensic-magnifier
+### Image analysis:
+* exif.tools
+* FoCA https://github.com/ElevenPaths/FOCA
+* recon-ng https://github.com/lanmaster53/recon-ng
+* maltego https://www.maltego.com/
 ### File search:
 * Search for files in AWS buckets: https://grayhatwarfare.com/
+### Analytics:
+- https://malpedia.caad.fkie.fraunhofer.de/
+- https://virustotal.com
+- https://packettotal.com
+- https://any.run
+- https://bazaar.abuse.ch/browse
 ### IP and Domain address search:
 * IP address history: https://www.criminalip.io/
 * Domain search: https://www.whoxy.com/
 * Check domain cert: https://crt.sh/ 
+* recursive file search: Ferox Buster https://github.com/epi052/feroxbuster
+* domain enumeration: https://www.kali.org/tools/theharvester/
 ### Email search:
 * Check if your personal data leaked: https://haveibeenpwned.com/
 * Ghunt online: https://gmail-osint.activetk.jp/ and local: https://github.com/mxrch/GHunt
 * Zehef studies the emails : https://github.com/N0rz3/Zehef
 * Search over 300 pages for an email data: https://osint.industries/
 * Business emails search: https://hunter.io/
+### Maps:
+* https://geoportal.gov.pl
+* https://geoportal360.pl
+* https://geoportal3d.pl
+* https://open street map search https://osm-search.bellingcat.com/
+* https://huntintel.io
+* https://instahunt.co
+* https://birdhunt.co
+* https://www.os-surveillance.io/
+* https://mattw.io/youtube-geofind/
+### Weather/maps:
+* https://www.wunderground.com/
+* https://www.weatheronline.pl/
+* https://www.windy.com/
+* https://www.suncalc.org/
+* https://shadowmap.org/
+### Companies worldwide:
+* https://opencorporates.com
+* https://aleo.com
+### Companies in Poland:
+* https://prs.ms.gov.pl/krs
+* https://rejestr.io/
+* https://aplikacja.ceidg.gov.pl/CEIDG/Index.aspx
+* https://sudop.uokik.gov.pl/home
+* https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx
+### Polish schools:
+* rejestr szkół i placówek oświatowych https://rspo.gov.pl/
+### Debts in Poland:
+* https://krz.ms.gov.pl/
+* https://baza-długów.pl
+* https://dlugi.info
+### Work
+* https://linkedin.com
+* https://goldenline
+* https://pracuj.pl
+### Car plates:
+* https://www.ufg.pl/
+* https://historiapojazdu.gov.pl/
+* https://bezpiecznyautobus.gov.pl/
+* tablice rejestracyjne: https://wptr.pl/
+* zdjecia tablic dedykowanych: https://indywidualninadrodze.pl/
+* https://platesmania.com/
+* https://tablica-rejestracyjna.pl/
+* http://worldlicenseplates.com/
 ### Password:
 * Have I been pwned: https://haveibeenpwned.com/
 ### IoT search:
@@ -83,6 +145,8 @@
 * DotGit, a browser extension that checks for exposed `.git` file: https://github.com/davtur19/DotGit
 * Screen recording: https://chromewebstore.google.com/detail/screenity-nagrywarka-edyt/kbbdabhdfibnancpjfhlkhafgdilcnji
 * Fireshot (screenshots): https://chromewebstore.google.com/detail/zr%C3%B3b-pe%C5%82ny-ca%C5%82kowity-zrzu/mcbpblocgmgfnpjjppndjkmgjaogfceg
+* RevEye (Image search plugin): https://chromewebstore.google.com/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf
+* Search by Image (Image search plugin): https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci
 ### Mind Maps:
 * Xmind: https://xmind.app/
 * Obsidian: https://obsidian.md/
