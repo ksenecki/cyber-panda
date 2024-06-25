@@ -244,6 +244,7 @@
 ### Playgrounds:
 * Damn Vulnerable Web App: https://github.com/digininja/DVWA
 * Pygoat: https://owasp.org/www-project-pygoat/
+* http://vulnweb.com/
   
 # Certificates
 A few iteresting certs.
