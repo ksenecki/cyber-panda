@@ -10,29 +10,29 @@
 * http://bezpiecznedane.gov.pl
 * http://breachforums.cx/
 ### Identity generators:
-- This person does not exist: https://this-person-does-not-exist.com/
-- Fake person generator: https://www.fakepersongenerator.com/
+* This person does not exist: https://this-person-does-not-exist.com/
+* Fake person generator: https://www.fakepersongenerator.com/
 ### Phishing:
 * Check phishing email: https://www.phishcheck.me/
 ### Fake news generators:
 - Aithor, a fake news generator: https://aithor.com/
-- Scite_ , ask a question, get an answer backed by real research: https://scite.ai/
 ### AI Image generators:
 * Midjourney: https://www.midjourney.com/home
 * Adobe Firefly: https://www.adobe.com/products/firefly.html
 ### AI detectors:
-- Copyleaks, an AI content detector: https://copyleaks.com/
-- Isitai, an AI content detector: https://isitai.com/
-- Gowinion, just another AI detector https://gowinston.ai/
+* Copyleaks, an AI content detector: https://copyleaks.com/
+* Isitai, an AI content detector: https://isitai.com/
+* Gowinion, just another AI detector https://gowinston.ai/
 ### Searching for AI-based posts in social media:
-- Search for: "I'm sorry, I cannot generate", "violates OpenAI's content policy"
-- Use google dorks to search for automated content on social media: "as an AI language model" site:linkedin.com inurl:post
+* Search for: "I'm sorry, I cannot generate", "violates OpenAI's content policy"
+* Use google dorks to search for automated content on social media: "as an AI language model" site:linkedin.com inurl:post
 ### Social media tools:
-- look fo login, email and phone number on Instagram (often banned by Instagram): https://github.com/Datalux/Osintgram
+* look fo login, email and phone number on Instagram (often banned by Instagram): https://github.com/Datalux/Osintgram
 ### Search Engines
 * Carrot2 organizes your search results into topics with an instant overview of what's available: https://search.carrot2.org/#/search/web
 * Chatbot based search engine: https://cylect.io/
 * Taranis AI is a local hosted advanced OSINT tool for information gathering and situational analysis: https://taranis.ai/
+* Scite_ , ask a question, get an answer backed by real research: https://scite.ai/
 * Google dorks based search: https://www.digitaldigging.org/
 ### Image search:
 * Google image search: https://images.google.com/
@@ -49,11 +49,11 @@
 ### File search:
 * Search for files in AWS buckets: https://grayhatwarfare.com/
 ### Analytics:
-- https://malpedia.caad.fkie.fraunhofer.de/
-- https://virustotal.com
-- https://packettotal.com
-- https://any.run
-- https://bazaar.abuse.ch/browse
+* https://malpedia.caad.fkie.fraunhofer.de/
+* https://virustotal.com
+* https://packettotal.com
+* https://any.run
+* https://bazaar.abuse.ch/browse
 ### IP and Domain address search:
 * IP address history: https://www.criminalip.io/
 * Domain search: https://www.whoxy.com/
