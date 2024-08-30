@@ -30,6 +30,7 @@
 * look fo login, email and phone number on Instagram (often banned by Instagram): https://github.com/Datalux/Osintgram
 ### Search Engines
 * Carrot2 organizes your search results into topics with an instant overview of what's available: https://search.carrot2.org/#/search/web
+* AI based search engine: https://perplexity.ai/
 * Chatbot based search engine: https://cylect.io/
 * Taranis AI is a local hosted advanced OSINT tool for information gathering and situational analysis: https://taranis.ai/
 * Scite_ , ask a question, get an answer backed by real research: https://scite.ai/
@@ -40,7 +41,7 @@
 * AI based face recognition: https://pimeyes.com/en
 * Face photo search: https://facecheck.id/
 * Chineese face recognition system: https://www.faceplusplus.com/
-* FOrensically (Image Forensic): https://29a.ch/photo-forensics/#forensic-magnifier
+* Forensically (Image Forensic): https://29a.ch/photo-forensics/#forensic-magnifier
 ### Image analysis:
 * exif.tools
 * FoCA https://github.com/ElevenPaths/FOCA
