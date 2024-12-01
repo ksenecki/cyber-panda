@@ -134,6 +134,7 @@
 * Gitdumper recreates repository structure from git file: https://github.com/HoLLy-HaCKeR/git-dumper
 * Complex OSINT search: https://www.osint.industries/
 * Web Archive: https://wayback-api.archive.org/
+* Find even more links from the Wayback Machine than other existing tools: https://github.com/xnl-h4ck3r/waymore
 
 ## General Toolkit
 ### Browser extensions:
