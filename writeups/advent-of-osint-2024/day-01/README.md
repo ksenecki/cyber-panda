@@ -1,4 +1,5 @@
-### Boycott
+### December 1st, 2024
+By OSINT4Fun  
 
 https://www.osint4fun.eu/advent2024/en/1/
 
