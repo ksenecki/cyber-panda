@@ -71,7 +71,7 @@
 * https://geoportal.gov.pl
 * https://geoportal360.pl
 * https://geoportal3d.pl
-* https://open street map search https://osm-search.bellingcat.com/
+* https://www.openstreetmap.org/ search https://osm-search.bellingcat.com/
 * https://huntintel.io
 * https://instahunt.co
 * https://birdhunt.co
