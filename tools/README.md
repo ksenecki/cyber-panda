@@ -83,6 +83,7 @@
 * https://www.windy.com/
 * https://www.suncalc.org/
 * https://shadowmap.org/
+* https://shademap.app/
 ### Companies worldwide:
 * https://opencorporates.com
 * https://aleo.com
