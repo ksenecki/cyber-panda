@@ -15,7 +15,7 @@ Video translation:
 * https://app.vozo.ai
 
 Creating slides:
-* https://gamma.app.create
+* https://gamma.app/
 
 Writing articles:
 * https://samwell.ai
