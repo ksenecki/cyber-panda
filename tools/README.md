@@ -42,6 +42,7 @@
 * Face photo search: https://facecheck.id/
 * Chineese face recognition system: https://www.faceplusplus.com/
 * Forensically (Image Forensic): https://29a.ch/photo-forensics/#forensic-magnifier
+* Location search based on image: https://picarta.ai/
 ### Image analysis:
 * exif.tools
 * FoCA https://github.com/ElevenPaths/FOCA
