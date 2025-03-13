@@ -9,6 +9,8 @@ Photo editting:
 Video creation:
 * https://runwayml.com
 * https://app.pixverse.ai
+* https://lumalabs.ai/dream-machine
+* https://hotshot.co/
 
 Video translation:
 * https://haygen.com
